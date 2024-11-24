@@ -72,6 +72,29 @@ To test CodeFactor’s analysis:
 
 ---
 
+## Directory Structure
+
+```
+📂 Learning-CodeFactor
+├── 📁 Codes
+│   ├── 📄 sample_code_corrected.py               # Testing script for the corrected workflow, ensuring proper functionality of the Streamlit app.
+│   ├── 📄 sample_code_with_errors.py             # Script demonstrating the erroneous workflow for analysis and debugging.
+│   ├── 📄 sample_code_with_errors_codefactor.py  # Script showcasing the error-prone workflow updated for CodeFactor review and improvements.
+│
+├── 📁 Documentation Files
+│   ├── 📄 Code Review Automation.md              # Sprint planning document outlining the development process and project timeline.
+│   ├── 📄 Code Review Automation.pdf             # A formatted PDF report summarizing project outputs and features for sharing and printing.
+│
+├── 📁 Output
+│   ├── 📄 Experiment 9 Output.docx               # Word document explaining the experiment's results in detail.
+│   ├── 📄 Experiment 9 Output.pdf                # PDF version of the experiment's outputs for easy distribution.
+│
+├── 📄 README.md                                  # Overview of the project, including purpose, setup instructions, and key features.
+├── 📄 LICENSE.md                                 # License information governing the usage, distribution, and modification of the project.
+```
+
+---
+
 ## Thanks for Visiting 😄
 
 - Drop a 🌟 if you find this repository useful.<br><br>
